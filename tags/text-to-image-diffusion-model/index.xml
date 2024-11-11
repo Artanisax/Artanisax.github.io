@@ -5,7 +5,7 @@
     <link>https://artanisax.github.io/tags/text-to-image-diffusion-model/</link>
       <atom:link href="https://artanisax.github.io/tags/text-to-image-diffusion-model/index.xml" rel="self" type="application/rss+xml" />
     <description>Text-to-Image Diffusion Model</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artanisax.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Text-to-Image Diffusion Model</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models</title>
       <link>https://artanisax.github.io/publication/six-cd/</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://artanisax.github.io/publication/six-cd/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
